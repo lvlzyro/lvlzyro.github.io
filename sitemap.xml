@@ -4,17 +4,32 @@
   
   <url>
     <loc>http://lvlzyro.github.io/</loc>
-    <lastmod>2020-05-12T05:16:15+03:00</lastmod>
+    <lastmod>2020-05-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://lvlzyro.github.io/tags/markdown/</loc>
+    <lastmod>2020-05-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://lvlzyro.github.io/posts/my-first-post/</loc>
-    <lastmod>2020-05-12T05:16:15+03:00</lastmod>
+    <lastmod>2020-05-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://lvlzyro.github.io/posts/</loc>
-    <lastmod>2020-05-12T05:16:15+03:00</lastmod>
+    <lastmod>2020-05-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://lvlzyro.github.io/tags/</loc>
+    <lastmod>2020-05-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://lvlzyro.github.io/tags/text/</loc>
+    <lastmod>2020-05-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -22,7 +37,7 @@
   </url>
   
   <url>
-    <loc>http://lvlzyro.github.io/tags/</loc>
+    <loc>http://lvlzyro.github.io/tags/index/</loc>
   </url>
   
 </urlset>
