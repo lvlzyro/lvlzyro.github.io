@@ -38,6 +38,11 @@
   </url>
   
   <url>
+    <loc>https://lvlzyro.github.io/archives/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://lvlzyro.github.io/categories/</loc>
   </url>
   
